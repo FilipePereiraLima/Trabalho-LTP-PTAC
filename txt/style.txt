@@ -1,0 +1,71 @@
+@font-face {
+  font-family: OpenSans;
+  src: url(../fonts/OpenSans.ttf)
+}
+
+h1 {
+  font-family: OpenSans;
+}
+body {
+  font-family: OpenSans;
+  background-color: #4d4d4d;
+ }
+
+h1 {
+  text-align: center; 
+  font-size: 4.5rem;
+}
+
+h2{
+text-align: left;
+
+}
+
+img{
+  height: 500px;
+  width: 300px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.noticia {
+  text-align: center;
+  border: 1px solid rgb(161, 155, 157);
+  margin: 10px;
+  padding: 10px;
+  color: #FFF;
+  font-size: 24px;
+  background-color: rgb(161, 155, 157);;
+}
+
+.card {
+  margin: 30px;
+  background-color: white;
+  border: 1px solid;
+  display: inline-block;
+  overflow: hidden;
+  width: 300px;
+}
+
+.card h2 {
+    padding: 5px;
+    margin: 0;
+}
+
+.card p {
+    padding: 5px;
+    margin: 0;
+    font-size: 18px;
+}
+
+.card img{
+       width:250px;
+       height: 165px;
+}
+
+header {
+  font-size: 26px;
+  color: white;
+  background-color: #1c1c1c;
+  padding: 5px 20px;
+}

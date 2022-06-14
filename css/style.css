@@ -1,0 +1,54 @@
+@font-face {
+  font-family: OpenSans;
+  src: url(../fonts/OpenSans.ttf)
+}
+
+h1 {
+  font-family: OpenSans;
+}
+body {
+  font-family: OpenSans;
+  background-color: #4d4d4d;
+ }
+
+h1 {
+  text-align: center; 
+  font-size: 4.5rem;
+}
+
+h2{
+text-align: left;
+
+}
+
+img{
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.noticia {
+  text-align: center;
+  border: 1px solid rgb(161, 155, 157);
+  margin: 10px;
+  padding: 10px;
+  color: #FFF;
+  font-size: 24px;
+  background-color: rgb(161, 155, 157);;
+}
+
+header {
+  font-size: 26px;
+  color: white;
+  background-color: #1c1c1c;
+  padding: 5px 20px;
+}
+.card{
+border: 2px solid black;
+  margin:10px;
+}
+
+.jayson{
+  text-decoration: none;
+}
+
